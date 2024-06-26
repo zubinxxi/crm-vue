@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nombre": "Paola",
+      "apellido": "Juarez",
+      "email": "paolaijm@gmail.com",
+      "telefono": "6223-5369",
+      "empresa": "paolaijm.com",
+      "puesto": "CEO",
+      "estado": true,
+      "id": "H82UvF-"
+    },
+    {
+      "nombre": "Gloris",
+      "apellido": "Marin",
+      "email": "gloris@gloris.com",
+      "telefono": "6252-6376",
+      "empresa": "gloris.com",
+      "puesto": "CEO",
+      "estado": true,
+      "id": "-Wof6p8"
+    },
+    {
+      "nombre": "Zubin",
+      "apellido": "Juarez",
+      "email": "zubinxxi@yahoo.com",
+      "telefono": "6252-6378",
+      "empresa": "zubinweb.com",
+      "puesto": "CEO",
+      "estado": true,
+      "id": "G8mRxjk"
+    },
+    {
+      "nombre": "Cesar",
+      "apellido": "Juarez",
+      "email": "cjuarez@gmail.com",
+      "telefono": "6258-9874",
+      "empresa": "cesarweb.com",
+      "puesto": "CEO",
+      "estado": true,
+      "id": "SxsFC2Q"
+    },
+    {
+      "nombre": "Virgilia",
+      "apellido": "Medina",
+      "email": "villamedina@gmail.com",
+      "telefono": "6536-5636",
+      "empresa": "villaweb.com",
+      "puesto": "CEO",
+      "estado": true,
+      "id": "RNHTguk"
+    },
+    {
+      "nombre": "Miriam",
+      "apellido": "Alvarado",
+      "email": "malvarado@hotmail.com",
+      "telefono": "6424-5636",
+      "empresa": "miriamweb.com",
+      "puesto": "CEO",
+      "estado": true,
+      "id": "Xiw3KFx"
+    },
+    {
+      "nombre": "Carmen ",
+      "apellido": "Medina",
+      "email": "cmedina@hotmail.com",
+      "telefono": "6321-9878",
+      "empresa": "carmenweb.com",
+      "puesto": "CEO",
+      "estado": true,
+      "id": "mfwqdZg"
+    },
+    {
+      "id": "00c8",
+      "nombre": "Miguel ",
+      "apellido": "Flores",
+      "email": "mflores@mflores.com",
+      "telefono": "6658-9999",
+      "empresa": "mfloresAbogados",
+      "puesto": "Director",
+      "estado": 1
+    }
+  ]
+}
